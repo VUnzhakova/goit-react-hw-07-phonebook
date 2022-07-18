@@ -1,0 +1,13 @@
+.list {
+  background-color: #0B5E55;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.text {
+  margin: 0;
+  color: #fff;
+}

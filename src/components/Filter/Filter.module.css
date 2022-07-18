@@ -1,0 +1,17 @@
+.filter {
+  margin-bottom: 15px;
+}
+
+.labelFilter {
+  color: #000;
+}
+
+.filterInput {
+  margin-left: 20px;
+  border-radius: 5px;
+    color: #212529;
+      background-color: #fff;
+      background-clip: padding-box;
+      border: 1px solid #012020;
+      
+}
